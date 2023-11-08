@@ -13,6 +13,11 @@ Certifique-se de ter o Node.js instalado em seu ambiente de desenvolvimento.
 
 A API estará disponível em `http://localhost:3000`.
 
+## Deploy 
+
+O deploy da api foi realizado no [glitch](https://glitch.com/)
+- url da api:  https://aluminum-api-login.glitch.me
+
 ## Rota
 
 A API possui a seguinte rota:
